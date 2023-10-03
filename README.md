@@ -5,7 +5,7 @@
 ```
 https://github.com/Samandar587/alltrip-task.git with HTTPS
 git@github.com:Samandar587/alltrip-task.git with SSH
-cd HealthTrackAPI
+cd alltrip-task
 ```
 
 2. Create and activate a Python virtual environment:
